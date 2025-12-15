@@ -1,9 +1,4 @@
 # 🌍 Distribución Global de Premios Nobel
-
-<p align="center">
-  <img src="nobel_treemap.png" width="85%">
-</p>
-
 ---
 
 ## 📌 Descripción general
@@ -46,14 +41,7 @@ El tamaño y el color de cada bloque reflejan la **cantidad relativa de laureado
 
 - Imagen: # 🌍 Distribución Global de Premios Nobel
 
-<p align="center">
-  <img src="nobel_treemap.png" width="85%">
-</p>
+<img width="5400" height="5400" alt="nobel_treemap" src="https://github.com/user-attachments/assets/b2aeadaa-b42d-4d14-b966-8120be22d2f8" />
+
 
 ---
-
----
-
-## 📎 Archivo asociado
-
-- Imagen: `nobel_treemap.png`
