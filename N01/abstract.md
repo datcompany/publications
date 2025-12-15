@@ -3,20 +3,7 @@
 
 #### 📌 Descripción general
 
-Este informe presenta una **visualización tipo treemap** de los Premios Nobel,
-organizados por **país** y **disciplina científica**.  
-El tamaño y el color de cada bloque reflejan la **cantidad relativa de laureados**.
-
----
-
-#### 🔍 Hallazgos principales
-
-- 🇺🇸 **Estados Unidos** concentra la mayor cantidad de premios,
-  destacando en **Medicina** y **Física**.
-- 🇬🇧 **Reino Unido** y 🇩🇪 **Alemania** conforman el segundo bloque dominante.
-- Países con menor número de premios exhiben una clara
-  **especialización disciplinar**.
-- Se observa una **alta concentración geográfica del conocimiento científico**.
+El treemap claramente resalta a **Estados Unidos (USA)** como el país con la mayor cantidad de laureados. Su rectángulo ocupa una porción significativamente grande del gráfico, indicando su preponderancia en la investigación y el desarrollo global. Dentro de los países dominantes (ej. USA, Reino Unido, Alemania), se puede observar cómo la cantidad de laureados se distribuye entre las diferentes categorías (physics, chemistry, medicine, economics). Por ejemplo, USA tiene grandes segmentos para física, medicina y química, lo que sugiere una fuerte inversión y éxito en estas ciencias.
 
 ---
 
