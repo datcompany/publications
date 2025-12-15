@@ -22,7 +22,7 @@ El tamaño y el color de cada bloque reflejan la **cantidad relativa de laureado
 
 
 #### 🧪 Datos (resumen)
-- Fuente: [The Novel Prize](https://www.nobelprize.org/prizes/lists/all-nobel-prizes/).
+- Fuente: [The Nobel Prize](https://www.nobelprize.org/prizes/lists/all-nobel-prizes/).
 - Descargar: [Aquí](https://raw.githubusercontent.com/datcompany/publications/refs/heads/main/N01/nobel_laureates.csv).
 
 ---
