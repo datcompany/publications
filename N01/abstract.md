@@ -39,7 +39,7 @@ Más que premiar descubrimientos aislados, el patrón observado apunta a la vali
 #### 📎 Archivos asociados
 <img width="5400" height="5400" alt="nobel_treemap" src="https://github.com/user-attachments/assets/b2aeadaa-b42d-4d14-b966-8120be22d2f8" />
 
-<img width="3240" height="3240" alt="nobel_violin" src="https://github.com/user-attachments/assets/36d9b289-eaa0-438a-aa93-90f2d586d17b" />
+<img width="3240" height="3240" alt="nobel_violin" src="https://github.com/user-attachments/assets/cfae4421-ed93-4dc6-a397-dd0026c7233a" />
 
 
 ---
