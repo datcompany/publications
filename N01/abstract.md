@@ -30,7 +30,7 @@ En conjunto, ambas visualizaciones sugieren que el Premio Nobel en ciencias **no
 Más que premiar descubrimientos aislados, el patrón observado apunta a la validación histórica de ideas, teorías y resultados que han resistido el escrutinio académico y han transformado de manera duradera su disciplina.
 
 
-#### 🧪 Datos (resumen)
+#### 🧪 Dase de datos
 - Fuente: [The Nobel Prize](https://www.nobelprize.org/prizes/lists/all-nobel-prizes/).
 - Descargar: [Aquí](https://raw.githubusercontent.com/datcompany/publications/refs/heads/main/N01/nobel_laureates.csv).
 
