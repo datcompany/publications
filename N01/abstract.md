@@ -1,4 +1,4 @@
-#### 🌍 ¿Existe un perfil del laureado Nobel en ciencias?
+## 🌍 ¿Existe un perfil del laureado Nobel en ciencias?
 
 Las visualizaciones permiten delinear, con claridad estadística y profundidad interpretativa, un **perfil estructural** de los premios Nobel en ciencias, tanto desde una perspectiva **geográfica** como **demográfica**.
 
